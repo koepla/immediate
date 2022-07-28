@@ -1,0 +1,1 @@
+# CMake subprojects for StarTracker
